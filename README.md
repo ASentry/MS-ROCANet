@@ -40,7 +40,7 @@ python tools/test.py configs\textdet\msrocanet\msrocanet_r50dcnv2_fpn_1500e_ctw1
 
 |   Method   | Backbone         | Pretrained Model | Training set  |   Test set   | #epochs | Test size   | Recall | Precision | Hmean | model |
 | :----:| :----: | :----: | :----:| :----:| :----:| :----:| :----:| :----:| :----:| :----:|
-| MS-ROCANET | ResNet50 + DCNv2 | ImageNet | CTW1500 Train | CTW1500 Test | 1500 | (736, 1080) | 0.834 | 0.882 | 0.857 | [model](链接：https://pan.baidu.com/s/1BNeqyHv56ydqmwjboYvq-Q <br/>提取码：t8nb) |
+| MS-ROCANET | ResNet50 + DCNv2 | ImageNet | CTW1500 Train | CTW1500 Test | 1500 | (736, 1080) | 0.834 | 0.882 | 0.857 |  [model](https://pan.baidu.com/s/1BNeqyHv56ydqmwjboYvq-Q<br/>提取码：t8nb)|
 
 ### ICDAR2015
 
